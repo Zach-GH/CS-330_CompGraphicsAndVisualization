@@ -1,0 +1,18 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function "bool __cdecl UInitialize(int,char * * const,struct GLFWwindow * *)" (?UInitialize@@YA_NHQEAPEADPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glewGetErrorString referenced in function "bool __cdecl UInitialize(int,char * * const,struct GLFWwindow * *)" (?UInitialize@@YA_NHQEAPEADPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwInit referenced in function "bool __cdecl UInitialize(int,char * * const,struct GLFWwindow * *)" (?UInitialize@@YA_NHQEAPEADPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function "bool __cdecl UInitialize(int,char * * const,struct GLFWwindow * *)" (?UInitialize@@YA_NHQEAPEADPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function "bool __cdecl UInitialize(int,char * * const,struct GLFWwindow * *)" (?UInitialize@@YA_NHQEAPEADPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function "bool __cdecl UInitialize(int,char * * const,struct GLFWwindow * *)" (?UInitialize@@YA_NHQEAPEADPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "void __cdecl UProcessInput(struct GLFWwindow *)" (?UProcessInput@@YAXPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwSetFramebufferSizeCallback referenced in function "bool __cdecl UInitialize(int,char * * const,struct GLFWwindow * *)" (?UInitialize@@YA_NHQEAPEADPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "void __cdecl UProcessInput(struct GLFWwindow *)" (?UProcessInput@@YAXPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function "bool __cdecl UInitialize(int,char * * const,struct GLFWwindow * *)" (?UInitialize@@YA_NHQEAPEADPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glewExperimental referenced in function "bool __cdecl UInitialize(int,char * * const,struct GLFWwindow * *)" (?UInitialize@@YA_NHQEAPEADPEAPEAUGLFWwindow@@@Z)
+C:\OpenGL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\OpenGL\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\prettyzucchini\source\repos\MeisnerOpenGL\x64\Debug\MeisnerOpenGL.exe : fatal error LNK1120: 14 unresolved externals
