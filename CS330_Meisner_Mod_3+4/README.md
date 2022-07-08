@@ -3,10 +3,13 @@ Zachary Meisner OPENGL Project
 CS-330 COMP GRAPHICS AND VISUALIZATION
 
 Dr. Kanooni
+
 --------------------------------------
 This README was last updated on 7/6/22
+
 --------------------------------------
 ADDITIONAL PROJECT SETUP
+
 -----
 1. Create a learnOpenGL folder and place camera.h, and shader.h inside this folder.
 2. Place this folder under the C: directory where your OpenGL folder is located.
