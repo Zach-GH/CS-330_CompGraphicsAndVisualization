@@ -1,5 +1,7 @@
 Zachary Meisner OPENGL Project
+
 CS-330 COMP GRAPHICS AND VISUALIZATION
+
 Dr. Kanooni
 --------------------------------------
 This README was last updated on 7/6/22
