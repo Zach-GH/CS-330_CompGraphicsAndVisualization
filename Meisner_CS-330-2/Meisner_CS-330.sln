@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Meisner_CS-330", "Meisner_CS-330.vcxproj", "{8D0912A2-1773-4A49-8AA0-41C4F8F47D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0912A2-1773-4A49-8AA0-41C4F8F47D46}.Debug|x64.ActiveCfg = Debug|x64
+		{8D0912A2-1773-4A49-8AA0-41C4F8F47D46}.Debug|x64.Build.0 = Debug|x64
+		{8D0912A2-1773-4A49-8AA0-41C4F8F47D46}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D0912A2-1773-4A49-8AA0-41C4F8F47D46}.Debug|x86.Build.0 = Debug|Win32
+		{8D0912A2-1773-4A49-8AA0-41C4F8F47D46}.Release|x64.ActiveCfg = Release|x64
+		{8D0912A2-1773-4A49-8AA0-41C4F8F47D46}.Release|x64.Build.0 = Release|x64
+		{8D0912A2-1773-4A49-8AA0-41C4F8F47D46}.Release|x86.ActiveCfg = Release|Win32
+		{8D0912A2-1773-4A49-8AA0-41C4F8F47D46}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75D0F04C-04A4-41A3-9726-0AFBE5BD77D4}
+	EndGlobalSection
+EndGlobal
