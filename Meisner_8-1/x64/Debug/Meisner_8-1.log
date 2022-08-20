@@ -1,0 +1,38 @@
+﻿  Source.cpp
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\linmath.h(606,51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\linmath.h(606,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\OpenGL\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(13,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(61,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(66,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(67,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(68,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(83,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(84,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(167,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(182,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(183,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(184,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(185,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(220,2): warning C4551: function call missing argument list
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(236,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(236,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(236,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(236,38): warning C4305: 'argument': truncation from 'double' to 'float'
+Source.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwGetFramebufferSize referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSwapInterval referenced in function main
+C:\OpenGL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\OpenGL\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\x64\Debug\Meisner_8-1.exe : fatal error LNK1120: 13 unresolved externals

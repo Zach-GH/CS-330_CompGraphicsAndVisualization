@@ -1,0 +1,73 @@
+﻿  Source.cpp
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\linmath.h(606,51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\linmath.h(606,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\OpenGL\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(14,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(77,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(82,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(94,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(100,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(101,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(102,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(154,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(155,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(156,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(157,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(158,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(169,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(170,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(171,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(179,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(180,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(181,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(182,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(192,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(197,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(303,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(303,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(303,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(303,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(331,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(342,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(358,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(359,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(360,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(361,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(362,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(363,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(364,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(365,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(366,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(367,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(370,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(371,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(372,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(373,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(374,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(375,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(376,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(377,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(378,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(379,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(382,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(383,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(384,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(385,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(386,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(387,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(388,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(389,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(390,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(391,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(395,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(411,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(453,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(465,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(466,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(467,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(469,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(470,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(471,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\prettyzucchini\source\repos\Meisner_8-1\Source.cpp(597,2): warning C4551: function call missing argument list
+  Meisner_8-1.vcxproj -> C:\Users\prettyzucchini\source\repos\Meisner_8-1\Debug\Meisner_8-1.exe
